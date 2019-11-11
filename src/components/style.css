@@ -1,0 +1,24 @@
+.question{
+    padding: 100px;
+    width: 50%;
+    margin: auto;
+
+}
+p {
+    font-size: 25px;
+ 
+}
+.question h1{
+    font-size: 50px;
+}
+.whole{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://images.unsplash.com/photo-1571942676558-281b2f9b1f8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80");
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+.overlay{
+    background-color: rgb(255, 255, 255,0.8);
+}
