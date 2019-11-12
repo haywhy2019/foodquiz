@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/haywhy2019/foodquiz.git/static/css/main.191fa204.chunk.css",
-    "main.js": "/haywhy2019/foodquiz.git/static/js/main.23d09917.chunk.js",
-    "main.js.map": "/haywhy2019/foodquiz.git/static/js/main.23d09917.chunk.js.map",
-    "runtime-main.js": "/haywhy2019/foodquiz.git/static/js/runtime-main.bcd6cfa3.js",
-    "runtime-main.js.map": "/haywhy2019/foodquiz.git/static/js/runtime-main.bcd6cfa3.js.map",
-    "static/js/2.5832ccd0.chunk.js": "/haywhy2019/foodquiz.git/static/js/2.5832ccd0.chunk.js",
-    "static/js/2.5832ccd0.chunk.js.map": "/haywhy2019/foodquiz.git/static/js/2.5832ccd0.chunk.js.map",
-    "index.html": "/haywhy2019/foodquiz.git/index.html",
-    "precache-manifest.02762549ca337df4327ce5ae77812f59.js": "/haywhy2019/foodquiz.git/precache-manifest.02762549ca337df4327ce5ae77812f59.js",
-    "service-worker.js": "/haywhy2019/foodquiz.git/service-worker.js",
-    "static/css/main.191fa204.chunk.css.map": "/haywhy2019/foodquiz.git/static/css/main.191fa204.chunk.css.map"
+    "main.css": "/foodquiz/static/css/main.191fa204.chunk.css",
+    "main.js": "/foodquiz/static/js/main.23d09917.chunk.js",
+    "main.js.map": "/foodquiz/static/js/main.23d09917.chunk.js.map",
+    "runtime-main.js": "/foodquiz/static/js/runtime-main.ea8358a8.js",
+    "runtime-main.js.map": "/foodquiz/static/js/runtime-main.ea8358a8.js.map",
+    "static/js/2.5832ccd0.chunk.js": "/foodquiz/static/js/2.5832ccd0.chunk.js",
+    "static/js/2.5832ccd0.chunk.js.map": "/foodquiz/static/js/2.5832ccd0.chunk.js.map",
+    "index.html": "/foodquiz/index.html",
+    "precache-manifest.c87956f1acefe6ca9fd79dba5165ed56.js": "/foodquiz/precache-manifest.c87956f1acefe6ca9fd79dba5165ed56.js",
+    "service-worker.js": "/foodquiz/service-worker.js",
+    "static/css/main.191fa204.chunk.css.map": "/foodquiz/static/css/main.191fa204.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcd6cfa3.js",
+    "static/js/runtime-main.ea8358a8.js",
     "static/js/2.5832ccd0.chunk.js",
     "static/css/main.191fa204.chunk.css",
     "static/js/main.23d09917.chunk.js"
